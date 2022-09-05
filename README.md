@@ -14,3 +14,13 @@ For example, picking up objects that are unnecessary to the user, therefore clut
 Also, users might find that the fast image recognition makes the game too simple: taking the fun out of it.
 
 ## Education and Learning
+
+## Transport and Navigation
+As shown in the video, image recognition is key part of transport and navigation.
+The most common example would be a GPS system which picks up nearby parks and other areas to make a user aware of their surroundings while travelling.
+However, Tesla uses this technology to an advanced level. They have a feature where even objects like nearby bins or poles are displayed on the car screen.
+This can aid a user, particularly a newer one, to avoid accidents and collisions when driving.
+An issue could be that the system does not pick it up fast enough, or if it has begun moving. 
+A cat for example, might be moving too quickly for the recognition to pick it up and alert the user; therefore, potentially resulting in harm.
+
+## Medecine and Healthcare
